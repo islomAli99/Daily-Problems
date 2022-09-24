@@ -1,5 +1,5 @@
 # Daily Problems
 
--- Run C++ Code:
+- Run C++ Code:
     1. `g++ <file> -o <nameOfExecutableFile>;`
     2. `./<nameofExecutableFile>;`
